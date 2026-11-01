@@ -1,0 +1,8 @@
+{
+  "name": "figbridge-server",
+  "version": "1.0.0",
+  "description": "Relay server for the FigBridge Figma to Roblox Studio plugins",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
